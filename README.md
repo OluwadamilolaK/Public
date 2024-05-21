@@ -2,7 +2,7 @@
 
 **Overview**
 
-The task, titled The sentiment of customer reviews: providing insights on customer satisfaction and potential areas for improvement for restaurant based on rating Utilizing Python libraries and NLTK for sentiment intensity analysis, the project aims to determine the proportion of customers who has given excellent reviews based on the overall rating and visualize these reviews while considering whether they are positive or Negative.
+The task, titled 'The sentiment of customer reviews: providing insights on customer satisfaction and potential areas for improvement for restaurant based on rating Utilizing Python libraries and NLTK for sentiment intensity analysis', the project aims to determine the proportion of customers who has given excellent reviews based on the overall rating and visualize these reviews while considering whether they are positive or Negative.
 
 **Data Cleaning and Transformation**
 
